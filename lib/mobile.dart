@@ -6,7 +6,7 @@ import 'adabtive/adabtive_indicator.dart';
 
 class MobileScreen extends StatelessWidget {
 
-
+//hello
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -106,3 +106,14 @@ class MobileScreen extends StatelessWidget {
     );
   }
 }
+
+
+
+//login
+
+//1- check master
+//2- update master
+//3- create branch باسم التاسكايه
+//4- code .....
+//5-
+
